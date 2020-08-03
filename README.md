@@ -1,7 +1,7 @@
 # Pomodoro Timer Starter files
 
 Here lies the starter files for the Pomodoro timer tutorial which can be found
-here: https://freshman.tech/custom-html5-video/
+here: https://freshman.tech/pomodoro-timer
 
 ## Live demo
 
@@ -26,4 +26,4 @@ $ git clone https://github.com/Freshman-tech/pomodoro-starter-files.git
 ```
 
 `cd` into the downloaded directory and follow along with the
-[tutorial](https://freshman.tech/custom-html5-video/).
+[tutorial](https://freshman.tech/pomodoro-timer/).
